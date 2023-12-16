@@ -1,0 +1,13 @@
+
+#librerías instaladas
+pipenv install keyboard
+pipenv install getch
+
+#creando carpeta para entorno virtual local
+mkdir .venv
+
+#instalando entorno virtual
+pipenv install
+
+#luego, para entrar o activar el entorno virtual
+pipenv shell

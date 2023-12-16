@@ -1,0 +1,7 @@
+.venv
+.env
+.cache
+download
+.venv
+bin
+*.bin
